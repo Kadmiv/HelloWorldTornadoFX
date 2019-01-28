@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorldTornadoFX.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorldTornadoFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorldTornadoFX_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorldTornadoFX_main.iml" group="HelloWorldTornadoFX" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorldTornadoFX_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorldTornadoFX_test.iml" group="HelloWorldTornadoFX" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane
+        prefHeight="400.0" prefWidth="600.0"
+        xmlns="http://javafx.com/javafx/null" xmlns:fx="http://javafx.com/fxml/1"
+
+>
+    <children>
+        <Button fx:id="click_btn" layoutX="28.0" layoutY="14.0" mnemonicParsing="false" text="Click ME!"
+                onAction="#btn"/>
+        <Text fx:id="hello_text" fill="#ff8f05" layoutX="133.0" layoutY="224.0" strokeType="OUTSIDE" strokeWidth="0.0"
+              text="Hello World!" visible="false">
+            <font>
+                <Font size="60.0"/>
+            </font>
+        </Text>
+    </children>
+</AnchorPane>
